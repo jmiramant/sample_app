@@ -1,0 +1,1 @@
+This is my Rails project. AWESOME - Josh Miramant josh@miramant.me 
